@@ -24,25 +24,58 @@ Here's a snapshot of my coding journey through the stars:
 
 These are some of the tools and languages I use on my coding missions:
 
+### Core Toolkit
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
+
+### 🛰️ Specialized & Space Tech
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=fff" alt="C" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=oracle&logoColor=fff" alt="Java" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" alt="Vercel" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Qiskit-8A3FFC?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff" alt="Arduino" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Astropy-7F53D6?style=for-the-badge&logo=astronomy&logoColor=fff" alt="Astropy" />
-  <img src="https://img.shields.io/badge/-Pymunk-000000?style=for-the-badge&logo=python&logoColor=fff" alt="Pymunk (Physics)" />
-  <img src="https://img.shields.io/badge/-NASA%20APIs-1B3A64?style=for-the-badge&logo=nasa&logoColor=fff" alt="NASA APIs" />
+  <img src="https://img.shields.io/badge/-Qiskit-8A3FFC?style=plastic&logo=qiskit&logoColor=white" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/-Astropy-7F53D6?style=plastic&logo=astronomy&logoColor=fff" alt="Astropy" />
+  <img src="https://img.shields.io/badge/-Pymunk-000000?style=plastic&logo=python&logoColor=fff" alt="Pymunk (Physics)" />
+  <img src="https://img.shields.io/badge/-NASA%20APIs-1B3A64?style=plastic&logo=nasa&logoColor=fff" alt="NASA APIs" />
 </p>
 
 ---
@@ -52,9 +85,9 @@ These are some of the tools and languages I use on my coding missions:
 My primary interests revolve around these fascinating fields:
 
 <p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-4B8BBE?style=for-the-badge&logo=artificial-intelligence&logoColor=fff" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=fff" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=embedded-systems&logoColor=fff" alt="Embedded Systems" />
-  <img src="https://img.shields.io/badge/Space%20Exploration-2C3E50?style=for-the-badge&logo=spacex&logoColor=fff" alt="Space Exploration" />
-  <img src="https://img.shields.io/badge/Physics%20Simulations-5A5A5A?style=for-the-badge&logo=nphysics&logoColor=fff" alt="Physics Simulations" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-4B8BBE?style=plastic&logo=artificial-intelligence&logoColor=fff" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=plastic&logo=machine-learning&logoColor=fff" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-00979D?style=plastic&logo=embedded-systems&logoColor=fff" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/Space%20Exploration-2C3E50?style=plastic&logo=spacex&logoColor=fff" alt="Space Exploration" />
+  <img src="https://img.shields.io/badge/Physics%20Simulations-5A5A5A?style=plastic&logo=nphysics&logoColor=fff" alt="Physics Simulations" />
 </p>
