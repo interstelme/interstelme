@@ -1,30 +1,28 @@
-## 👋 Hi, I'm [Your Name]
+## 👋 Greetings, Earthling! I'm Kiruthik!
 
-Welcome to my GitHub profile! I'm a developer and innovator passionate about the intersection of **Artificial Intelligence**, **Embedded Systems**, and **Quantum Computing**.
-
-I'm always learning and building new things. Feel free to explore my repositories!
+Welcome to my corner of the cosmos on GitHub! 🚀 I enjoy exploring the vast universe of code, especially when it touches upon **Artificial Intelligence**, **Machine Learning**, **Embedded Systems**, and the wonders of **Space Exploration**. I tinker with code for fun and to bring interesting ideas to life.
 
 ---
 
-## 📊 My GitHub Stats
+## 🌌 My GitHub Orbit
 
-> **Note:** Replace `YOUR-USERNAME` with your actual GitHub username!
+Here's a snapshot of my coding journey through the stars:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="[Your Name]'s GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiruthikpurpose&show_icons=true&theme=radical&rank_icon=github&hide_border=true&border_radius=10" alt="Kiruthik's GitHub Stats" />
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="[Your Name]'s Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthikpurpose&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Kiruthik's Top Languages" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ My Mission Control (Technologies & Tools)
 
-Here are some of the technologies I work with:
+These are some of the tools and languages I use on my coding missions:
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python" />
@@ -42,16 +40,21 @@ Here are some of the technologies I work with:
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff" alt="PyTorch" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Astropy-7F53D6?style=for-the-badge&logo=astronomy&logoColor=fff" alt="Astropy" />
+  <img src="https://img.shields.io/badge/-Pymunk-000000?style=for-the-badge&logo=python&logoColor=fff" alt="Pymunk (Physics)" />
+  <img src="https://img.shields.io/badge/-NASA%20APIs-1B3A64?style=for-the-badge&logo=nasa&logoColor=fff" alt="NASA APIs" />
 </p>
 
 ---
 
-## 📚 Knowledge Areas
+## 📚 Cosmic Knowledge Areas
 
-My primary areas of interest and expertise include:
+My primary interests revolve around these fascinating fields:
 
 <p>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-4B8BBE?style=for-the-badge&logo=artificial-intelligence&logoColor=fff" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=fff" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=embedded-systems&logoColor=fff" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/Space%20Exploration-2C3E50?style=for-the-badge&logo=spacex&logoColor=fff" alt="Space Exploration" />
+  <img src="https://img.shields.io/badge/Physics%20Simulations-5A5A5A?style=for-the-badge&logo=nphysics&logoColor=fff" alt="Physics Simulations" />
 </p>
